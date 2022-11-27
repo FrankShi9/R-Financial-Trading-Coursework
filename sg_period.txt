@@ -1,0 +1,12 @@
+getPeriods('sgyshi31')
+$startIn
+[1] 1
+
+$endIn
+[1] 847
+
+$startOut
+[1] 848
+
+$endOut
+[1] 2000

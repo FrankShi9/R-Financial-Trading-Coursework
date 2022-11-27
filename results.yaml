@@ -1,0 +1,26 @@
+username: sgyshi31
+periods:
+  startIn: 1
+  endIn: 847
+  startOut: 848
+  endOut: 2000
+ins:
+  short: 10.0
+  medium: 50.0
+  long: 200.0
+  series1: 1
+  series2: 0
+  series3: 1
+  series4: 1
+  profit: 2406.68
+  rank_on_out: 14.0
+out:
+  short: 5.0
+  medium: 100.0
+  long: 200.0
+  series1: 1
+  series2: 1
+  series3: 1
+  series4: 1
+  profit: 18276.58
+  rank_on_in: 66.0
